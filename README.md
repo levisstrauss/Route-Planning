@@ -6,14 +6,6 @@ This project is a route planner that plots a path between two points on a map us
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Dependencies](#dependencies)
-  - [Building the Project](#building-the-project)
-  - [Running the Project](#running-the-project)
-- [Project Structure](#project-structure)
-- [Implementation Details](#implementation-details)
-- [Acknowledgements](#acknowledgements)
-- [License](#license)
 
 ## Introduction
 
@@ -28,7 +20,5 @@ This Route Planner project is part of the Udacity C++ Nanodegree Program. It imp
 This repo contains the starter code for the Route Planning project.
 
 <img src="map.png" width="600" height="450" />
-```
-./test
-```
+
 
